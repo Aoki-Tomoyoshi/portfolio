@@ -2,7 +2,7 @@
 ポートフォリオページ
 - 青木 智芳
 - 連絡先 email→aokitomoyoshi.0208@gmail.com
-- 専門学校デジタルアーツ東京ゲーム学科ゲームプログラムコース 2023卒業予定
+- 専門学校デジタルアーツ東京ゲーム学科ゲームプログラムコース 2023年3月卒業予定
 
 ## 資格
 - 特になし
@@ -27,4 +27,4 @@
    ###作品リスト
 
    ###YOKETORU2021
-   [img src="AokiTomoyoshi/portfolio/portfolioYoketoru2021"alt = "YOKETORU2021"style="height:360px"]()
+   [img src="C:\Users\student\Documents\AokiTomoyoshi\portfolio"alt = "YOKETORU2021"style="height:360px"]()
