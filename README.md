@@ -31,3 +31,5 @@
 
    ### Barrage(チーム制作)
    [<img src ="portfolio/game-image.png" alt = "弾幕ゲーム" style = "height:360px">]()
+
+   ### NOT MOTITUKI
