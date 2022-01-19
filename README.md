@@ -27,4 +27,4 @@
    ###作品リスト
 
    ###YOKETORU2021
-   [<img src="/AokiTomoyoshi/portfolio/portfolioYoketoru2021.png"alt = "YOKETORU2021"style="height:360px">]()
+   [<img src="portfolio/portfolioYoketoru2021.png"alt = "YOKETORU2021"style="height:360px">]()
