@@ -22,9 +22,9 @@
    - 正月課題のゲームを簡易化(要素数の最低限化)と作成
    - 既知プログラミング言語の応用
 
-   ##作品リスト
+   ## 作品リスト
 
-   ###作品リスト
+   ### 作品リスト
 
-   ###YOKETORU2021
+   ### YOKETORU2021
    [<img src="portfolio/portfolioYoketoru2021.png"alt = "YOKETORU2021"style="height:360px">]()
