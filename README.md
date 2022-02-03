@@ -18,18 +18,21 @@
   - 利用歴3年
   - 簡単なシステム開発程度
 
-  ## 取り組んでいるテーマ
+## 取り組んでいるテーマ
    - 正月課題のゲームを簡素化(要素数の最低限化)して作成
    - 既知プログラミング言語の応用
 
-   ## 作品リスト
+## 作品リスト
 
-   ### 作品リスト
+### 作品リスト
 
-   ### YOKETORU2021
-   [<img src="portfolio/portfolioYoketoru2021.png" alt = "YOKETORU2021" style="height:360px">]()
+### YOKETORU2021
+ [<img src="portfolio/portfolioYoketoru2021.png" alt = "YOKETORU2021" style="height:360px">]()
 
-   ### Barrage(チーム制作)
-   [<img src ="portfolio/game-image.png" alt = "弾幕ゲーム" style = "height:360px">]()
+### Barrage(チーム制作)
+ [<img src ="portfolio/game-image.png" alt = "弾幕ゲーム" style = "height:360px">]()
 
-   ### NOT MOTITUKI
+### NOT MOTITUKI
+
+### リンク
+[発表用資料ぺージ](https://github.com/Aoki-Tomoyoshi/portfolio/blob/main/happyou.md)
